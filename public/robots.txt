@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://kiez-directory.com/sitemap.xml
